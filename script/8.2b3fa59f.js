@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{MF9F:function(o,n){o.exports={hello:"Hello, world, from I18N",oh:"oh, no"}}}]);
